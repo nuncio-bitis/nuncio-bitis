@@ -21,7 +21,7 @@ This is the dimension of imagination and creativity.
 It is an area which we call "Embedded Software Engineering".  
 That's where I live.
 
-- 🔭 I’m currently working on a project for my Raspberry Pi 4 that is connected to an ADC, DAC, BME280, and BME6880 via I2C.
+- 🔭 I’ve recently completed a project for my Raspberry Pi 4 that is connected to an ADC, DAC, BME280, and BME6880 via I2C.
     The ADC is converting signals from the 3.3V power supply/battery, the 5V power supply/battery, and a light-sensitive resistor.
     It's based on my **DataGatheringSystem** project, which is an example of gathering information from external sensors. The main
     goal is to take a bunch of C++ concepts I've learned over the years and put them all together into a working system useful
