@@ -45,4 +45,4 @@ That's where I live.
 
 - 🎢 Other repositories are old learning projects or attempts to keep some other people's good work alive.
 
-- Newer repositories I've added since writing this intro.
+- 🏵 Newer repositories I've added since writing this intro.
