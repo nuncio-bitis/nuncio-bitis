@@ -29,7 +29,7 @@ That's where I live.
     
     The code makes use of the C++17/C++2a/C++20 STL and core utilities you'd find on most Linux OSes. So far I can build
     and run the project on Windows, Mac OS Monterey, Ubuntu Linux flavors, and Raspbian (if given stubbing of hardware
-    interfaces on non-Raspberry Pi systems, whereas my my **DataGatheringSystem** can be built and run on any system).
+    interfaces on non-Raspberry Pi systems, whereas my **DataGatheringSystem** can be built and run on any system).
 
     Concepts:
     * Multiple threads controlled by a master thread.
@@ -45,4 +45,4 @@ That's where I live.
 
 - 🎢 Other repositories are old learning projects or attempts to keep some other people's good work alive.
 
-
+- Newer repositories I've added since writing this intro.
