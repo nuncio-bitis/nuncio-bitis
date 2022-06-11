@@ -20,6 +20,7 @@ It is the middle ground between hardware and software, between science and artwo
 This is the dimension of imagination and creativity.  
 It is an area which we call "Embedded Software Engineering".  
 That's where I live.
+blah blah blah
 
 - 🔭 I’ve recently completed a project for my Raspberry Pi 4 that is connected to an ADC, DAC, BME280, and BME6880 via I2C.
     The ADC is converting signals from the 3.3V power supply/battery, the 5V power supply/battery, and a light-sensitive resistor.
