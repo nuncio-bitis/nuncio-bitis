@@ -19,7 +19,7 @@ There is a fifth dimension beyond that which is known to most engineers. It is a
 It is the middle ground between hardware and software, between science and artwork, and it lies between the pit of man's fears and the summit of his knowledge.  
 This is the dimension of imagination and creativity.  
 It is an area which we call "Embedded Software Engineering".  
-That's where I live.
+That's where I live.  
 blah blah blah
 
 - 🔭 I’ve recently completed a project for my Raspberry Pi 4 that is connected to an ADC, DAC, BME280, and BME6880 via I2C.
